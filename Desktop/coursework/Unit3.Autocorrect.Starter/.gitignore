@@ -1,0 +1,71 @@
+# Ignore system files
+.DS_Store
+.ansible/
+.cups/
+.gitconfig
+.lesshst
+.npm/
+.nvm/
+.ssh/
+.vscode/
+.wdc/
+.zcompdump
+.zsh_history
+.zsh_sessions/
+.zshrc
+
+# Ignore specific files and directories
+27a.jsx
+Applications/
+Katie Vargas Resume 2023.pdf
+Screenshot 2024-01-18 at 3.18.00*.png
+Screenshot 2024-01-18 at 3.19.48*.png
+Screenshot 2024-01-18 at 3.31.02*.png
+Screenshot 2024-01-18 at 6.49.53*.png
+Slack/
+VA Appeal/
+Visual Studio Code.app/
+.DS_Store
+.localized
+Personal Website/
+Unit2.FreelancerForum/
+Unit2.Froyo/
+Unit2.GroceryList.Starter/
+Unit2.RiverCrossing.Starter/
+Unit2.Shapes.Starter/
+Unit3.ColorPicker.Starter/
+Unit3.TextAnalysis.Starter/
+Workshop 17/
+array methods/
+guided practice/
+organized grocery list/
+puppy pals/
+the zoo problem/
+unit2.temperature.converter.starter/
+desktop /
+fullstack/
+k80s projects/
+medical/
+screenshots/
+work related documents/
+zoom.us
+~$mpare and Contrast essay draft.edited.docx
+~$sponse Paper Draft.docx
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Unit2.Froyo/
+Unit2.OddsAndEvents.Starter/
+Unit2.Prescription.StarterCode/
+Unit2.PuppyBowl.Starter/
+Unit2.TemperatureConverter.Starter/
+Unit3.BankAccount.Starter/
+Unit3.TestingPuppyPals.StarterCode/
+Untitled.txt
+classwork.html
+classwork.js
+contact list/
