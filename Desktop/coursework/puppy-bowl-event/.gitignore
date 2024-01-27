@@ -1,0 +1,114 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore specific files and directories
+../.BrowserLock/
+../.CFUserTextEncoding
+../.DS_Store
+../.ansible/
+../.cups/
+../.gitconfig
+../.lesshst
+../.node_repl_history
+../.npm/
+../.nvm/
+../.ssh/
+../.vscode/
+../.wdc/
+../.zcompdump
+../.zsh_history
+../.zsh_sessions/
+../.zshrc
+../27a.jsx
+../Applications/
+../Desktop/.DS_Store
+../Desktop/.localized
+../Desktop/Katie Vargas Resume 2023.pdf
+"../Desktop/Screenshot 2024-01-18 at 3.18.00\342\200\257PM.png"
+"../Desktop/Screenshot 2024-01-18 at 3.19.48\342\200\257PM.png"
+"../Desktop/Screenshot 2024-01-18 at 3.31.02\342\200\257PM.png"
+"../Desktop/Screenshot 2024-01-18 at 6.49.53\342\200\257PM.png"
+../Desktop/Slack
+../Desktop/VA Appeal/
+../Desktop/Visual Studio Code.app/
+../Desktop/coursework/.DS_Store
+../Desktop/coursework/Personal Website/
+../Desktop/coursework/Unit2.FreelancerForum/
+../Desktop/coursework/Unit2.Froyo/
+../Desktop/coursework/Unit2.GroceryList.Starter/
+../Desktop/coursework/Unit2.RiverCrossing.Starter/
+../Desktop/coursework/Unit2.Shapes.Starter/
+../Desktop/coursework/Unit3.ColorPicker.Starter/
+../Desktop/coursework/Unit3.TextAnalysis.Starter/
+../Desktop/coursework/Workshop 17/
+../Desktop/coursework/array methods/
+../Desktop/coursework/guided practice/
+../Desktop/coursework/organized grocery list/
+../Desktop/coursework/puppy pals/
+../Desktop/coursework/the zoo problem/
+../Desktop/coursework/unit2.temperature.converter.starter/
+../Desktop/desktop /
+../Desktop/fullstack/
+../Desktop/k80s projects/
+../Desktop/medical/
+../Desktop/screenshots/
+../Desktop/work related documents/
+../Desktop/zoom.us
+../Desktop/~$mpare and Contrast essay draft.edited.docx
+../Desktop/~$sponse Paper Draft.docx
+../Documents/
+../Downloads/
+../Library/
+../Movies/
+../Music/
+../Pictures/
+../Public/
+../Unit2.Froyo/
+../Unit2.OddsAndEvents.Starter/
+../Unit2.Prescription.StarterCode/
+../Unit2.PuppyBowl.Starter/
+../Unit2.TemperatureConverter.Starter/
+../Unit3.BankAccount.Starter/
+../Unit3.BookBuddy.Starter/
+../Unit3.TestingPuppyPals.StarterCode/
+../Untitled.txt
+../classwork.html
+../classwork.js
+../contact list/
+../puppy-pals/
+../react-forms/
+../unit3.contactlist/
+../warm-up.js
