@@ -1,0 +1,63 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.BrowserLock/
+.CFUserTextEncoding
+.DS_Store
+.ansible/
+.cups/
+.gitconfig
+.lesshst
+.node_repl_history
+.npm/
+.nvm/
+.ssh/
+.vscode/
+.wdc/
+.zcompdump
+.zsh_history
+.zsh_sessions/
+.zshrc
+27a.jsx
+Applications/
+.DS_Store
+.localized
+Katie\ Vargas\ Resume\ 2023.pdf
+"Screenshot 2024-01-18 at 3.18.00 PM.png"
+"Screenshot 2024-01-18 at 3.19.48 PM.png"
+"Screenshot 2024-01-18 at 3.31.02 PM.png"
+"Screenshot 2024-01-18 at 6.49.53 PM.png"
+"Screenshot 2024-01-27 at 12.19.12 AM.png"
+"Screenshot 2024-01-28 at 10.33.03 AM (2).png"
+"Screenshot 2024-01-28 at 10.33.03 AM.png"
+"Screenshot 2024-01-28 at 12.29.57 PM.png"
+"Screenshot 2024-01-28 at 5.51.30 PM.png"
+"Screenshot 2024-01-28 at 8.45.15 PM.png"
+Slack
+VA\ Appeal/
+Visual\ Studio\ Code.app/
+.DS_Store
+Personal\ Website/
+...
+
